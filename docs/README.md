@@ -1,1 +1,1 @@
-A project to practice advanced TypeScript
+A project to practice advanced TypeScript with drag & drop
