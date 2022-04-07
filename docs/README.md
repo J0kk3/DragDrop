@@ -1,2 +1,1 @@
-# Web-Dev-Template
-A template repo for web development
+A project to practice advanced TypeScript
